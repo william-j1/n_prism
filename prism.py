@@ -1,5 +1,5 @@
 '''
-William Johnson <williamj.inbox@gmail.com
+William Johnson <williamj.inbox@gmail.com>
 ---
 My method: Model the _origin_ edge of a prism into an empty 2-dimensional space. 
 
