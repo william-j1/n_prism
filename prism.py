@@ -68,7 +68,7 @@ def main():
     try:
         p = argparse.ArgumentParser(description="parameters for n-sided prism")
         p.add_argument('n', type=int, help='the number (n) of sides')
-        p.add_argument('l', type=int, help='the uniform base edge length (l)')
+        p.add_argument('l', type=float, help='the uniform base edge length (l)')
         p.add_argument('d', type=float, help='depth of n-sided prism')
         args = p.parse_args()
     except:
