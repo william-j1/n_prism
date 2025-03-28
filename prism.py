@@ -12,7 +12,6 @@ My method: Model the _origin_ edge of a prism into an empty 2-dimensional space.
 7. Given a vertex (or edge list) obtain a midpoint (centroid) and render a triangle
 8. Solve its area, multiply by n_sides and finally multiply the depth to yield its volumetric quantity.
 
-When n_sides increases, the complexity of the volumetric becomes smoother more akin to a cylindrical object since the planar areas on the surface become smaller.
 '''
 import argparse
 import math
