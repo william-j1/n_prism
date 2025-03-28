@@ -129,7 +129,7 @@ def main():
 
     # area * n sides * depth
     v = t.area() * args.n * args.d
-    print('volume: ' + str(v))
+    print(str(v))
 
 if __name__ == "__main__":
 
