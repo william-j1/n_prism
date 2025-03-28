@@ -118,7 +118,7 @@ def main():
         sy += q.y
 
         # adjust angular offset
-        delta = delta + theta
+        delta += theta
 
     # divide by n vertices to obtain centroid
     sx /= args.n
