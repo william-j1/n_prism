@@ -40,9 +40,6 @@ class Edge:
     def __init__(self, v1, v2):
         self.v1 = v1
         self.v2 = v2
-    def rotate(self, degrees, pivot):
-        self.v1.rotate(degrees, pivot)
-        self.v2.rotate(degrees, pivot)
     def v1(self):
         return self.v1
     def v2(self):
