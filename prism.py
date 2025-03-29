@@ -74,7 +74,7 @@ def main():
         print('parameter(s) missing or of the wrong data type')
         sys.exit()
 
-    # if arguments is less-than or length equal to zero
+    # if n is less-than triangular or length equal to zero
     if args.n < 3 or args.l == 0:
         sys.exit()
 
