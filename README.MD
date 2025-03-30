@@ -8,7 +8,7 @@ My personal method to solve n-sided prisms includes borrowing properties from th
 |:----:|---------------------------------------------------------------|
 | n    | the number (n) of sides                                       |
 | l    | the uniform base edge length (l)                              |
-| d    | depth of n-sided prism                                        |
+| d    | depth of n-sided prism (d)                                    |
 
 ## License
 
